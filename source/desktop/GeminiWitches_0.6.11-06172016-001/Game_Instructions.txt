@@ -1,0 +1,74 @@
+	***********************************
+	* GEMINI WITICHES (Version 0.6.11) *
+	***********************************
+
+** A Platformer about two twin sisters! **
+	
+** Stats **
+Green Bar = Health
+Blue Bar = Magic (can't use elemental magic when it reaches 0)
+Yellow Bar = Experience
+
+** Controls **
+
+F1 = Toggle Fullscreen
+F5 = Reset Game
+ESC = Exit Game
+
+KeyBoard controls
+------------------
+<- = Left
+-> = Right
+^ =  Jump / Enter Door
+<Enter> = Menu Selection / Pause
+'S' Back in Menu
+
+'A' Attack (Hold to Charge with Seika)
+'Z' Flower of life
+'W' Fly
+'X' Piercing Water Crystal
+'Q' Fire Burst
+
+XBOX 360 controller controls
+----------------------------
+*Left Analog
+<- = Left
+-> = Right
+'A' = Jump / Enter Door
+<Start> = Menu Selection / Pause
+'B' Back in Menu
+
+'X' Attack (Hold to Charge Only Seika)
+
+*While Holding Down RT (Right Back Trigger)
+'Y' Flower of life
+'A' Fly
+'X' Piercing Water Crystal
+'B' Fire Burst
+
+
+** ELEMENTAL POWERS**
+
+*Mirror Shot
+-Shoots a small mirror energy shot.  Doesn't cost mp.  Charge for a more powerful attack.
+
+**Collect all four elemental gems!
+
+*Earth (orange gem)
+-Boost max hp
+-damages enemies when character lands on top of them.
+-[Element Power] Flower of life - Restores health.
+
+*Wind (green gem)
+-Slight boost in speed.
+-Double Jump
+-[Element Power] Fly - Self explanory ;-)
+
+*Fire (red gem)
+-Physical attacks are twice as strong.
+-[Element Power] Fire Burst - Fire attack that surrouds forming a type of rotating shield.
+
+*Water (blue gem)
+-Boosts max mp
+-Boosts mp regen
+-[Element Power] Piercing Water Crystal - Pierces through walls at super speeds to attack enemies!
